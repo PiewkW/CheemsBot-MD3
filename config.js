@@ -46,10 +46,10 @@ global.linkz1 = "https://chat.whatsapp.com/Jgqy9E2QKFn5U3KQUWRPzN"
 global.linkz2 = "https://github.com/PiewkW/CheemsBot-MD3"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./c1c049c1-7f7f-40f2-93f4-75e9f3cd3769.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./c1c049c1-7f7f-40f2-93f4-75e9f3cd3769.jpg") //ur logo pic
+global.err4r = fs.readFileSync(".c1c049c1-7f7f-40f2-93f4-75e9f3cd3769.jpg") //ur error pic
+global.thumb = fs.readFileSync(".c1c049c1-7f7f-40f2-93f4-75e9f3cd3769.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
